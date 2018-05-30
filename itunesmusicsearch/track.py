@@ -10,8 +10,7 @@
 #  copy of the GNU General Public License
 # along with this program. If not, see <http://www.gnu.org/licenses/>
 
-import itunessearch
-from itunessearch import result_item
+from itunesmusicsearch import result_item
 
 class Track(result_item.ResultItem):
 
@@ -22,3 +21,9 @@ class Track(result_item.ResultItem):
         """
         result_item.ResultItem.__init__(self, json)
 
+    def get_track_url(self):
+        """
+        Retrieves the track's length and converts it to minutes
+        :return: Int. Track length in minutes
+        """
+        return self.trackViewUrl

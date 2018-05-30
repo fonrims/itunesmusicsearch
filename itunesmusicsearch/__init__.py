@@ -1,7 +1,7 @@
 #!/usr/bin/python
 import requests
-from itunessearch import result_item
-from itunessearch import track
+from itunesmusicsearch import result_item
+from itunesmusicsearch import track
 
 base_url = 'https://itunes.apple.com/search?term='
 ampersand = '&'
