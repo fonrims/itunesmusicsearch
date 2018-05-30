@@ -3,6 +3,8 @@ import requests
 from itunesmusicsearch import result_item
 from itunesmusicsearch import track
 
+name = "itunesmusicsearch"
+
 base_url = 'https://itunes.apple.com/search?term='
 ampersand = '&'
 parameters = {
