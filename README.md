@@ -20,7 +20,7 @@ itunesmusicsearch requires [Requests](https://github.com/kennethreitz/requests) 
 
 ## Examples and information
 
-Or search for a track:
+Search for a track:
 
 ```python
 import itunesmusicsearch
