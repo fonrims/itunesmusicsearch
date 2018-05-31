@@ -9,7 +9,7 @@ You can install it from *pip*:
 
 Or you can simply clone this project anywhere in your computer:
 
-    git clone https://github.com/fonrimss/itunesmusicsearch.git
+    git clone https://github.com/fonrims/itunesmusicsearch.git
 
 And then enter the cloned repo and execute:
 
