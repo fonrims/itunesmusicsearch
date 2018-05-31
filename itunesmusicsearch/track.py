@@ -1,3 +1,4 @@
+#!/usr/bin/python
 from itunesmusicsearch import result_item
 
 class Track(result_item.ResultItem):

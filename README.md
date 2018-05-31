@@ -1,4 +1,4 @@
-# itunesmusicsearch [![PyPI version](https://badge.fury.io/py/itunespy.svg)](http://badge.fury.io/py/itunesmusicsearch)
+# itunesmusicsearch [![PyPI version](https://badge.fury.io/py/itunesmusicsearch.svg)](http://badge.fury.io/py/itunesmusicsearch)
 
 itunesmusicsearch is made to fetch necessary information about the track using iTunes Store API. itunesmusicsearch is made for Python 3.X.
 
