@@ -25,7 +25,7 @@ Search for a track:
 ```python
 import itunesmusicsearch
 
-track = itunespy.search_track('Iter Impius')  # Returns a list
+track = itunesmusicsearch.search_track('Iter Impius')  # Returns a list
 print(track[0].artist_name + ': ' + track[0].track_name + ' | Length: ' + str(track[0].get_track_time_minutes())) # Get info from the first result
 ```
 

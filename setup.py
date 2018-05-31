@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="itunesmusicsearch",
-    version="0.0.1",
+    version="0.0.2",
     author="Andrii Smirnov",
     author_email="andrew.fonrims@gmail.com",
     description="A small iTunes API wrapper (made for test task)",
